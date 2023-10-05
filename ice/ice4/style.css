@@ -1,0 +1,48 @@
+body {
+    background-color: #FCA6C9;
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    font-family: sans-serif;
+}
+
+#education {
+    color: white;
+}
+
+#education h1 {
+    margin: 1em;
+}
+
+#education h1:hover {
+    color: black;
+}
+
+.quote {
+    color: white;
+    font-family: serif;
+}
+
+.big {
+    font-size: 2em;
+    width: 70%;
+    margin: 1em auto;
+}
+
+#principles {
+    font-weight: bold;
+}
+
+#principles li {
+    text-align: left;
+}
+
+#nelson_img {
+    width: 50%;
+    margin: 1em;
+}
+
+#nelson_info {
+    width: 70%;
+    margin: 0 auto;
+}
