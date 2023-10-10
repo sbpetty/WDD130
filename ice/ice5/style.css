@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    font-size: 0;
+}
+
+.banner {
+    width: 100%;
+}
+
+.gallery {
+    margin: 0 auto;
+    background-color: gray;
+    text-align: center;
+}
+
+.circle_img {
+    border: 10px solid darkslategray;
+    border-radius: 100%;
+    width: 20%;
+    margin: 5%;
+}
