@@ -75,6 +75,10 @@ main section img {
     margin: 200px 0;
 }
 
+.mountains {
+    margin: 100px 0;
+}
+
 .book, .join {
     background-color: #FFC857;
     color: black;
