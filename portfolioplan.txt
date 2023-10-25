@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@700&family=Open+Sans&display=swap');
+
+font-family: 'Cormorant', serif;
+font-family: 'Open Sans', sans-serif;
+
+https://coolors.co/palette/00a6fb-0582ca-006494-003554-051923
