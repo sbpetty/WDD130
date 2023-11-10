@@ -92,7 +92,7 @@ h2 {
     margin-top: 10px;
 }
 
-#hero-msg h1, #hero-msg h4, .button-box, main section {
+#hero-msg h1, #hero-msg h4, .button-box, main section.home {
     text-align: center;
 }
 
@@ -216,13 +216,7 @@ footer .social img {
 .faq {
     margin: 0 10%;
     text-align: left;
-    /* display: flex;
-    flex-direction: column; */
 }
-
-/* .gray {
-    background-color: lightgray;
-} */
 
 .question {
     margin-top: 40px;
