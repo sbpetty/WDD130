@@ -215,6 +215,7 @@ footer .social img {
 
 .faq {
     margin: 0 10%;
+    text-align: left;
     /* display: flex;
     flex-direction: column; */
 }
